@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @charanreddyn
-- 👀 I’m interested in ...learning...
-- 🌱 I’m currently learning ...java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+🛜 Currently working on Python and Machine Learning
+👨🏼‍🎓 Studying at Bangalore Institute of Technology
+
 
 <!---
 charanreddyn/charanreddyn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
