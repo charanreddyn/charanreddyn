@@ -14,27 +14,7 @@
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F61?style=for-the-badge&logo=python&logoColor=white)
 ![Data Science](https://img.shields.io/badge/Data%20Science-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
 
----
 
-## 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nagasuhas&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nagasuhas&theme=radical" alt="GitHub Streak" height="180px"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nagasuhas&theme=radical&no-frame=true&margin-w=15" />
-</p>
-
----
-
-## 🛠️ My Activity Graph:
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Nagasuhas&theme=react-dark&hide_border=true)
-
----
 
 
 ---
@@ -48,6 +28,5 @@
 ---
 
 ### 🤝 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Nagasuhas/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nagasuhas/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Nagasuhas/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charanreddyn/)
+
